@@ -23,3 +23,7 @@ https://dmptuuli.fi/
 - [Getting started guide](https://wiki.helsinki.fi/display/Tutkimusdata/Getting+started+with+Datacloud)
 - [Setting up, e.g., ultan for moving data to/from](https://wiki.helsinki.fi/pages/viewpage.action?spaceKey=Tutkimusdata&title=Uploading+large+data+sets+to+Datacloud+via+WebDAV)
 
+## Open Science Framework
+https://cosdev.readthedocs.io/
+https://osf.io/
+https://github.com/CenterForOpenScience/osf.io
