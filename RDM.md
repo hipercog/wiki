@@ -14,6 +14,9 @@ This is a general information document about data management for research projec
 ## Data management plan
 Create a data management plan for your project. There's a browser tool for that:
 https://dmptuuli.fi/
+### Pseudonymization and minimization of collected features
+https://www.fsd.tuni.fi/en/services/data-management-guidelines/
+https://amnesia.openaire.eu/
 
 
 ## Using REDCap survey tools in University
