@@ -4,13 +4,6 @@ This is a general information document about data management for research projec
 - [General guidelines in University of Helsinki](https://www.helsinki.fi/en/research/services-researchers/data-support/research-data-management)
 - [Large amount of introductory slides for different purposes](https://wiki.helsinki.fi/display/RDMforum2014/Data+management+course+materials)
 
-### Our resources
-
-- Datacloud
-- Ultan
-- Arkku (in ultan)
-- ...
-
 ## Data management plan
 Create a data management plan for your project. There's a browser tool for that:
 https://dmptuuli.fi/
@@ -30,3 +23,13 @@ https://amnesia.openaire.eu/
 https://cosdev.readthedocs.io/
 https://osf.io/
 https://github.com/CenterForOpenScience/osf.io
+# OSF for RDM	
+https://libraries.mit.edu/data-management/store/osf/
+# OSF with Nextcloud and Zotero
+https://ethicaledtech.info/wiki/Open_Science_Framework
+
+# Helsinki University services for data
+https://sp.eudat.eu/catalog/
+https://datacite.org/
+https://www.openaire.eu/
+
